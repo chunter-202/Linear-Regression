@@ -1,6 +1,6 @@
    
 #############################################
-#   COSC 424 Project 2: Linear Regression   #
+#   Linear Regression   #
 #   Taylor Chase Hunter                     #
 #                                           #
 #   This code takes in data from auto-mpg   #
